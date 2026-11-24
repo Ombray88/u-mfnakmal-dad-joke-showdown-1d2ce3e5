@@ -1,3 +1,8 @@
+"""
+Dad joke about a flamingo impersonation setup where 'put my foot down'
+has a double meaning: standing firm and a flamingo standing on one leg.
+"""
+
 import os
 
 def main():
